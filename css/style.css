@@ -1,0 +1,30 @@
+.nav nav-pills {
+    float: left;
+    font-family: 'Lily Script One', cursive;
+    display: inline-block;
+    font-size: 30px; /* originally 30 px; just testing */
+    color: #11a0e5;
+    padding: 20px; /* originally 20 px; just testing */
+  }
+
+  .nav{
+    background-color: grey;
+    font-family: 'Lobster', cursive;
+
+  }
+
+  .nav nav-pills {
+    float: left;
+    text-align: left;
+  }
+
+  .row {
+    text-align: center;
+  }
+
+  div {
+    height: 100px;
+    width: 100px;
+    border: 2px solid blue;
+  }
+
